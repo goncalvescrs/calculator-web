@@ -10,7 +10,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 5em;
+    padding-top: 5em;
+    margin: 2rem;
     max-width: 1300;
 }
 
